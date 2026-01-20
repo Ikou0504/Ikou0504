@@ -6,41 +6,50 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
 </div>
 
-## 🌟 **About Me**
 
-<div align="center">
+# Hi there, I'm Kosei Iida (飯田 晃生) 👋
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
+### 🎓 Profile
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+- **所属:** 兵庫県立大学大学院 情報科学研究科 修士課程1年生 (M1)
+- **会社:** [合同会社DA研](https://dakken.co.jp/) 代表社員
+  - 主に上記大学のシステム開発やデータ分析業務を受注・展開しています。
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+---
 
-</td>
-</tr>
-</table>
+### 🔬 Research: 組合せ剛性理論 (Combinatorial Rigidity Theory)
 
-</div>
+建築物などの構造を数理モデル（グラフ）に落とし込み、数理的な知見からグラフの頑丈性や特性を解析・解明する研究を行っています。
 
-## 📊 **GitHub Analytics**
+- **キーワード:** \
+`Combinatorial Optimization` / `Graph Theory`
+`Operations Research` / `Artificial Intelligence`
 
+---
+
+### 🛠 Skills & Technologies
+
+- **Languages & Tools:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikou0504&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ☕ About Me
+
+- **趣味:**
+  - ✈️ **旅行:** 新しい土地の文化や風景に触れるのが好きです．
+  - 🖌️ **書道 (Calligraphy):** 小さい頃からずっとやってました．
+- **Contact:**
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
+
 
