@@ -28,13 +28,20 @@
 
 ### 🛠 Skills & Technologies
 
-- **Languages & Tools:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+#### **Languages & Tools:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### **🌱 Currently Learning:**
+
+- **TypeScript / React**: モダンなWeb開発を習得するために勉強中です。
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikou0504&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ikou0504&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
